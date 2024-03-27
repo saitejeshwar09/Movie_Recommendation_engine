@@ -27,13 +27,3 @@ The movie recommendation engine uses the following datasets from the TMDB 5000 M
 
 - To use the movie recommendation engine, open the Streamlit app in your web browser.
 - Input your preferences and viewing history to receive personalized movie recommendations.
-
-## Contributing
-
-- Explain how others can contribute to your project.
-- Include guidelines for code formatting, pull request submission, etc.
-
-## License
-
-- Specify the license for your project (e.g., MIT, Apache 2.0).
-- Include any additional terms or conditions if applicable.
