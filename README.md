@@ -27,3 +27,7 @@ The movie recommendation engine is a system that uses algorithms and data analys
 
 - To use the movie recommendation engine, open the Streamlit app in your web browser.
 - Input your preferences and viewing history to receive personalized movie recommendations.
+
+##Datasets
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+Here are two datasets movies.csv and credits.csv
